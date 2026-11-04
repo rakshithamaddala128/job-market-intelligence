@@ -1,0 +1,15 @@
+skill_category,india_jobs,global_jobs,india_demand_pct,global_demand_pct,demand_gap_percentage_points
+AI & Machine Learning,266.0,2445,0.9,1.97,-1.07
+Cloud & Infrastructure,125.0,1481,0.42,1.2,-0.78
+Cybersecurity,0.0,83,0.0,0.07,-0.07
+Data Analytics,1089.0,23082,3.7,18.64,-14.94
+Data Engineering & Cloud,640.0,6159,2.18,4.97,-2.79
+Databases,2497.0,5586,8.49,4.51,3.98
+Developer Tools,486.0,2629,1.65,2.12,-0.47
+IT Support,1566.0,9510,5.32,7.68,-2.36
+Networking,817.0,5383,2.78,4.35,-1.57
+Operating Systems,476.0,3527,1.62,2.85,-1.23
+Professional Competencies,1511.0,15209,5.14,12.28,-7.14
+Programming,4038.0,7305,13.73,5.9,7.83
+Systems Administration,132.0,760,0.45,0.61,-0.16
+Web Development,1868.0,3341,6.35,2.7,3.65

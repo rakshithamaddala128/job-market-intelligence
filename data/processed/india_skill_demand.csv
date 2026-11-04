@@ -1,0 +1,58 @@
+skill_name,skill_category,job_count,demand_percentage
+JavaScript,Programming,2254,7.66
+SQL,Databases,1560,5.3
+HTML,Web Development,1539,5.23
+Java,Programming,1233,4.19
+Python,Programming,1177,4.0
+Technical Support,IT Support,1030,3.5
+MySQL,Databases,924,3.14
+Project Management,Professional Competencies,816,2.77
+CSS,Web Development,712,2.42
+Agile,Professional Competencies,701,2.38
+Networking,Networking,700,2.38
+Troubleshooting,IT Support,644,2.19
+C++,Programming,500,1.7
+Data Analysis,Data Analytics,493,1.68
+Excel,Data Analytics,485,1.65
+Windows,Operating Systems,431,1.47
+Git,Developer Tools,370,1.26
+AWS,Data Engineering & Cloud,288,0.98
+Machine Learning,AI & Machine Learning,246,0.84
+Node.js,Web Development,218,0.74
+MongoDB,Databases,209,0.71
+Scrum,Professional Competencies,203,0.69
+Azure,Data Engineering & Cloud,167,0.57
+Hadoop,Data Engineering & Cloud,120,0.41
+Apache Spark,Data Engineering & Cloud,107,0.36
+Docker,Developer Tools,100,0.34
+System Administration,Systems Administration,91,0.31
+Cloud Computing,Cloud & Infrastructure,86,0.29
+PostgreSQL,Databases,86,0.29
+ETL,Data Engineering & Cloud,82,0.28
+Statistics,Data Analytics,78,0.27
+Cisco,Networking,74,0.25
+LAN,Networking,74,0.25
+Tableau,Data Analytics,71,0.24
+WAN,Networking,70,0.24
+Desktop Support,IT Support,66,0.22
+Data Visualization,Data Analytics,51,0.17
+GitHub,Developer Tools,50,0.17
+Windows Server,Operating Systems,47,0.16
+Deep Learning,AI & Machine Learning,47,0.16
+Power BI,Data Analytics,43,0.15
+Data Center,Cloud & Infrastructure,41,0.14
+Natural Language Processing,AI & Machine Learning,38,0.13
+IT Support,IT Support,31,0.11
+Hardware Support,IT Support,27,0.09
+Google Cloud,Data Engineering & Cloud,23,0.08
+Remote Support,IT Support,22,0.07
+Patch Management,Systems Administration,19,0.06
+Computer Vision,AI & Machine Learning,18,0.06
+SCCM / MECM,Systems Administration,17,0.06
+Server Administration,Systems Administration,13,0.04
+Cisco ASA,Networking,8,0.03
+Kubernetes,Developer Tools,4,0.01
+Palo Alto Networks,Networking,3,0.01
+React,Web Development,2,0.01
+TypeScript,Programming,2,0.01
+Pandas,Data Analytics,1,0.0

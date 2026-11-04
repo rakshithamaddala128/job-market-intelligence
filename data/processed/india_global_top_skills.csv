@@ -1,0 +1,21 @@
+skill_name,india_job_count,india_category,global_job_count,global_category,india_demand_pct,global_demand_pct,demand_gap_percentage_points,market_presence,skill_category
+JavaScript,2254,Programming,1961,Programming,7.66,1.58,6.08,Both Markets,Programming
+SQL,1560,Databases,5186,Databases,5.3,4.19,1.11,Both Markets,Databases
+HTML,1539,Web Development,1772,Web Development,5.23,1.43,3.8,Both Markets,Web Development
+Java,1233,Programming,2664,Programming,4.19,2.15,2.04,Both Markets,Programming
+Python,1177,Programming,4648,Programming,4.0,3.75,0.25,Both Markets,Programming
+Technical Support,1030,IT Support,3295,IT Support,3.5,2.66,0.84,Both Markets,IT Support
+MySQL,924,Databases,465,Databases,3.14,0.38,2.76,Both Markets,Databases
+Project Management,816,Professional Competencies,10229,Professional Competencies,2.77,8.26,-5.49,Both Markets,Professional Competencies
+CSS,712,Web Development,1003,Web Development,2.42,0.81,1.61,Both Markets,Web Development
+Agile,701,Professional Competencies,5969,Professional Competencies,2.38,4.82,-2.44,Both Markets,Professional Competencies
+Networking,700,Networking,4706,Networking,2.38,3.8,-1.42,Both Markets,Networking
+Troubleshooting,644,IT Support,6957,IT Support,2.19,5.62,-3.43,Both Markets,IT Support
+C++,500,Programming,1294,Programming,1.7,1.04,0.66,Both Markets,Programming
+Data Analysis,493,Data Analytics,4471,Data Analytics,1.68,3.61,-1.93,Both Markets,Data Analytics
+Excel,485,Data Analytics,18107,Data Analytics,1.65,14.62,-12.97,Both Markets,Data Analytics
+Windows,431,Operating Systems,3527,Operating Systems,1.47,2.85,-1.38,Both Markets,Operating Systems
+Git,370,Developer Tools,1206,Developer Tools,1.26,0.97,0.29,Both Markets,Developer Tools
+AWS,288,Data Engineering & Cloud,3239,Data Engineering & Cloud,0.98,2.62,-1.64,Both Markets,Data Engineering & Cloud
+Machine Learning,246,AI & Machine Learning,2121,AI & Machine Learning,0.84,1.71,-0.87,Both Markets,AI & Machine Learning
+Node.js,218,Web Development,414,Web Development,0.74,0.33,0.41,Both Markets,Web Development

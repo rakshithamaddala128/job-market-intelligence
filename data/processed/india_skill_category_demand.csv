@@ -1,0 +1,14 @@
+skill_category,skill_matches,unique_jobs,unique_skills,job_coverage_percentage
+Programming,5166,4038,5,13.73
+Databases,2779,2497,4,8.49
+Web Development,2471,1868,4,6.35
+IT Support,1820,1566,6,5.32
+Professional Competencies,1720,1511,3,5.14
+Data Analytics,1222,1089,7,3.7
+Networking,929,817,6,2.78
+Data Engineering & Cloud,787,640,6,2.18
+Developer Tools,524,486,4,1.65
+Operating Systems,478,476,2,1.62
+AI & Machine Learning,349,266,4,0.9
+Systems Administration,140,132,4,0.45
+Cloud & Infrastructure,127,125,2,0.42

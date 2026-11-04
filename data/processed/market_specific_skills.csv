@@ -1,0 +1,11 @@
+skill_name,india_job_count,india_category,global_job_count,global_category,india_demand_pct,global_demand_pct,demand_gap_percentage_points,market_presence,skill_category
+CrowdStrike,0,,60,Cybersecurity,0.0,0.05,-0.05,Global Only,Cybersecurity
+F5 Load Balancer,0,,13,Networking,0.0,0.01,-0.01,Global Only,Networking
+Generative AI,0,,389,AI & Machine Learning,0.0,0.31,-0.31,Global Only,AI & Machine Learning
+Microsoft Defender,0,,20,Cybersecurity,0.0,0.02,-0.02,Global Only,Cybersecurity
+Large Language Models,0,,218,AI & Machine Learning,0.0,0.18,-0.18,Global Only,AI & Machine Learning
+Microsoft Purview,0,,11,Cybersecurity,0.0,0.01,-0.01,Global Only,Cybersecurity
+NumPy,0,,85,Data Analytics,0.0,0.07,-0.07,Global Only,Data Analytics
+PyTorch,0,,243,AI & Machine Learning,0.0,0.2,-0.2,Global Only,AI & Machine Learning
+Scikit-learn,0,,94,AI & Machine Learning,0.0,0.08,-0.08,Global Only,AI & Machine Learning
+TensorFlow,0,,224,AI & Machine Learning,0.0,0.18,-0.18,Global Only,AI & Machine Learning

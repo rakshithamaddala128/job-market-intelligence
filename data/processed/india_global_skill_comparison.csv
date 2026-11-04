@@ -1,0 +1,68 @@
+skill_name,india_job_count,india_category,global_job_count,global_category,india_demand_pct,global_demand_pct,demand_gap_percentage_points,market_presence,skill_category
+JavaScript,2254,Programming,1961,Programming,7.66,1.58,6.08,Both Markets,Programming
+SQL,1560,Databases,5186,Databases,5.3,4.19,1.11,Both Markets,Databases
+HTML,1539,Web Development,1772,Web Development,5.23,1.43,3.8,Both Markets,Web Development
+Java,1233,Programming,2664,Programming,4.19,2.15,2.04,Both Markets,Programming
+Python,1177,Programming,4648,Programming,4.0,3.75,0.25,Both Markets,Programming
+Technical Support,1030,IT Support,3295,IT Support,3.5,2.66,0.84,Both Markets,IT Support
+MySQL,924,Databases,465,Databases,3.14,0.38,2.76,Both Markets,Databases
+Project Management,816,Professional Competencies,10229,Professional Competencies,2.77,8.26,-5.49,Both Markets,Professional Competencies
+CSS,712,Web Development,1003,Web Development,2.42,0.81,1.61,Both Markets,Web Development
+Agile,701,Professional Competencies,5969,Professional Competencies,2.38,4.82,-2.44,Both Markets,Professional Competencies
+Networking,700,Networking,4706,Networking,2.38,3.8,-1.42,Both Markets,Networking
+Troubleshooting,644,IT Support,6957,IT Support,2.19,5.62,-3.43,Both Markets,IT Support
+C++,500,Programming,1294,Programming,1.7,1.04,0.66,Both Markets,Programming
+Data Analysis,493,Data Analytics,4471,Data Analytics,1.68,3.61,-1.93,Both Markets,Data Analytics
+Excel,485,Data Analytics,18107,Data Analytics,1.65,14.62,-12.97,Both Markets,Data Analytics
+Windows,431,Operating Systems,3527,Operating Systems,1.47,2.85,-1.38,Both Markets,Operating Systems
+Git,370,Developer Tools,1206,Developer Tools,1.26,0.97,0.29,Both Markets,Developer Tools
+AWS,288,Data Engineering & Cloud,3239,Data Engineering & Cloud,0.98,2.62,-1.64,Both Markets,Data Engineering & Cloud
+Machine Learning,246,AI & Machine Learning,2121,AI & Machine Learning,0.84,1.71,-0.87,Both Markets,AI & Machine Learning
+Node.js,218,Web Development,414,Web Development,0.74,0.33,0.41,Both Markets,Web Development
+MongoDB,209,Databases,310,Databases,0.71,0.25,0.46,Both Markets,Databases
+Scrum,203,Professional Competencies,1556,Professional Competencies,0.69,1.26,-0.57,Both Markets,Professional Competencies
+Azure,167,Data Engineering & Cloud,2918,Data Engineering & Cloud,0.57,2.36,-1.79,Both Markets,Data Engineering & Cloud
+Hadoop,120,Data Engineering & Cloud,313,Data Engineering & Cloud,0.41,0.25,0.16,Both Markets,Data Engineering & Cloud
+Apache Spark,107,Data Engineering & Cloud,856,Data Engineering & Cloud,0.36,0.69,-0.33,Both Markets,Data Engineering & Cloud
+Docker,100,Developer Tools,1058,Developer Tools,0.34,0.85,-0.51,Both Markets,Developer Tools
+System Administration,91,Systems Administration,494,Systems Administration,0.31,0.4,-0.09,Both Markets,Systems Administration
+Cloud Computing,86,Cloud & Infrastructure,643,Cloud & Infrastructure,0.29,0.52,-0.23,Both Markets,Cloud & Infrastructure
+PostgreSQL,86,Databases,325,Databases,0.29,0.26,0.03,Both Markets,Databases
+ETL,82,Data Engineering & Cloud,885,Data Engineering & Cloud,0.28,0.71,-0.43,Both Markets,Data Engineering & Cloud
+Statistics,78,Data Analytics,1956,Data Analytics,0.27,1.58,-1.31,Both Markets,Data Analytics
+Cisco,74,Networking,744,Networking,0.25,0.6,-0.35,Both Markets,Networking
+LAN,74,Networking,399,Networking,0.25,0.32,-0.07,Both Markets,Networking
+WAN,70,Networking,373,Networking,0.24,0.3,-0.06,Both Markets,Networking
+Tableau,71,Data Analytics,1245,Data Analytics,0.24,1.01,-0.77,Both Markets,Data Analytics
+Desktop Support,66,IT Support,207,IT Support,0.22,0.17,0.05,Both Markets,IT Support
+Data Visualization,51,Data Analytics,856,Data Analytics,0.17,0.69,-0.52,Both Markets,Data Analytics
+GitHub,50,Developer Tools,528,Developer Tools,0.17,0.43,-0.26,Both Markets,Developer Tools
+Windows Server,47,Operating Systems,308,Operating Systems,0.16,0.25,-0.09,Both Markets,Operating Systems
+Deep Learning,47,AI & Machine Learning,282,AI & Machine Learning,0.16,0.23,-0.07,Both Markets,AI & Machine Learning
+Power BI,43,Data Analytics,1069,Data Analytics,0.15,0.86,-0.71,Both Markets,Data Analytics
+Data Center,41,Cloud & Infrastructure,882,Cloud & Infrastructure,0.14,0.71,-0.57,Both Markets,Cloud & Infrastructure
+Natural Language Processing,38,AI & Machine Learning,314,AI & Machine Learning,0.13,0.25,-0.12,Both Markets,AI & Machine Learning
+IT Support,31,IT Support,347,IT Support,0.11,0.28,-0.17,Both Markets,IT Support
+Hardware Support,27,IT Support,319,IT Support,0.09,0.26,-0.17,Both Markets,IT Support
+Google Cloud,23,Data Engineering & Cloud,1407,Data Engineering & Cloud,0.08,1.14,-1.06,Both Markets,Data Engineering & Cloud
+Remote Support,22,IT Support,140,IT Support,0.07,0.11,-0.04,Both Markets,IT Support
+Patch Management,19,Systems Administration,93,Systems Administration,0.06,0.08,-0.02,Both Markets,Systems Administration
+SCCM / MECM,17,Systems Administration,133,Systems Administration,0.06,0.11,-0.05,Both Markets,Systems Administration
+Computer Vision,18,AI & Machine Learning,242,AI & Machine Learning,0.06,0.2,-0.14,Both Markets,AI & Machine Learning
+Server Administration,13,Systems Administration,107,Systems Administration,0.04,0.09,-0.05,Both Markets,Systems Administration
+Cisco ASA,8,Networking,24,Networking,0.03,0.02,0.01,Both Markets,Networking
+TypeScript,2,Programming,521,Programming,0.01,0.42,-0.41,Both Markets,Programming
+React,2,Web Development,1420,Web Development,0.01,1.15,-1.14,Both Markets,Web Development
+Palo Alto Networks,3,Networking,346,Networking,0.01,0.28,-0.27,Both Markets,Networking
+Kubernetes,4,Developer Tools,1168,Developer Tools,0.01,0.94,-0.93,Both Markets,Developer Tools
+CrowdStrike,0,,60,Cybersecurity,0.0,0.05,-0.05,Global Only,Cybersecurity
+F5 Load Balancer,0,,13,Networking,0.0,0.01,-0.01,Global Only,Networking
+Generative AI,0,,389,AI & Machine Learning,0.0,0.31,-0.31,Global Only,AI & Machine Learning
+Microsoft Defender,0,,20,Cybersecurity,0.0,0.02,-0.02,Global Only,Cybersecurity
+Large Language Models,0,,218,AI & Machine Learning,0.0,0.18,-0.18,Global Only,AI & Machine Learning
+Microsoft Purview,0,,11,Cybersecurity,0.0,0.01,-0.01,Global Only,Cybersecurity
+NumPy,0,,85,Data Analytics,0.0,0.07,-0.07,Global Only,Data Analytics
+PyTorch,0,,243,AI & Machine Learning,0.0,0.2,-0.2,Global Only,AI & Machine Learning
+Pandas,1,Data Analytics,95,Data Analytics,0.0,0.08,-0.08,Both Markets,Data Analytics
+Scikit-learn,0,,94,AI & Machine Learning,0.0,0.08,-0.08,Global Only,AI & Machine Learning
+TensorFlow,0,,224,AI & Machine Learning,0.0,0.18,-0.18,Global Only,AI & Machine Learning
