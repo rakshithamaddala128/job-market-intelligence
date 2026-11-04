@@ -166,3 +166,18 @@ To transform large-scale job-posting data into actionable insights about technol
 **Domain:** Job Market Analytics and Skill Gap Analysis
 
 **Interface:** Streamlit Interactive Dashboard
+
+## 📊 Dashboard Preview
+
+### Market Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### Skill Analysis
+![Skill Analysis](screenshots/skill_analysis.png)
+
+## 🚀 Future Improvements
+
+- Add interactive job-role recommendations.
+- Improve job classification accuracy using machine learning.
+- Integrate more recent job market datasets.
+- Add salary trend analysis and skill gap predictions.
